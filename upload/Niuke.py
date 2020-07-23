@@ -1,9 +1,8 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jul 16 20:31:19 2020
 
-@author: alston
+@author: lee
 """
 
 
